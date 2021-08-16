@@ -1,0 +1,14 @@
+.container{
+    display: inline-block;
+    background-color: #ECB817;
+    color: #ffff;
+}
+
+.header{
+    
+    font-size: 30px;
+}
+
+.header > p{
+    font-size: 15px;
+}

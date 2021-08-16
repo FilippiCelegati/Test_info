@@ -1,0 +1,10 @@
+.container{
+    background-color: #ECB817 ;
+    padding: 20px 58px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.copyright{
+    color: #ffff;
+}

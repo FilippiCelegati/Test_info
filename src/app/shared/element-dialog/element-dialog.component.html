@@ -1,0 +1,26 @@
+<h1 mat-dialog-title>Criar Cadastro</h1>
+<div mat-dialog-content> 
+  <mat-form-field>
+    <mat-label>ID</mat-label>
+    <input matInput [(ngModel)]="data.id">
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Moldelo</mat-label>
+    <input matInput [(ngModel)]="data.model">
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Placa</mat-label>
+    <input matInput [(ngModel)]="data.placa">
+  </mat-form-field>
+
+  <mat-form-field>
+    <mat-label>Ano</mat-label>
+    <input matInput [(ngModel)]="data.ano">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancelar</button>
+  <button mat-button [mat-dialog-close]="data" cdkFocusInitial>Criar</button>
+</div>
