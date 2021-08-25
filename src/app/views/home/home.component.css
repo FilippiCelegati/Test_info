@@ -5,3 +5,23 @@ table {
   .container{
       padding: 50px 80px;
   }
+
+  button{
+      color: #72A0A6;
+      font-size: 20px;
+  }
+
+  button:hover{
+      color: #465B5E;
+  }
+
+  th{
+      color: #72A0A6;
+      font-size: 15px;
+      font-weight: bold;
+  }
+
+  th:hover{
+      color: #465B5E;
+  }
+

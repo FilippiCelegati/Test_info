@@ -1,5 +1,5 @@
 .container{
-    background-color: #ECB817 ;
+    background-image: linear-gradient(to right, #03258C, #0433BF);
     padding: 20px 58px;
     display: flex;
     flex-direction: row-reverse;
