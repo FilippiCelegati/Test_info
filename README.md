@@ -1,7 +1,7 @@
 # Crud com Angular!
-## Projetinho feito para possivel vaga de emprego na empresa Info.
+## Projetinho feito para teste.
 
-Foi criado uma tabelinha em typescript com incrementos de elementos, nela conseguimos colocar modelos, placas e ano de automoveis, podendo também apagrar as linhas e editar 
+Foi criado uma tabelinha em typescript com incrementos de elementos, nela conseguimos colocar modelos, placas e ano de automoveis, podendo também apagar as linhas e editar 
 tudo que foi feito.
 
 Esse projeto ainda é necessário que seja feito um Api para que possamos atualizar a página e o mesmo não voltar a tabela fixada dentro do programa.
