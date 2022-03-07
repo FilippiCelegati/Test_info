@@ -11,4 +11,15 @@ que eu pudesse entender o básico e conseguir criar algo em cima disso.
 
 Estou muito contente com o resultado apesar de simples.
 
-[img do projeto](https://github.com/FilippiCelegati/Test_info/blob/master/Sem%20t%C3%ADtulo.png)
+Página Inicial:
+
+![NPM](https://github.com/FilippiCelegati/Test_info/blob/master/readme_crud/home.png)
+
+Editando:
+
+![NPM](https://github.com/FilippiCelegati/Test_info/blob/master/readme_crud/editar.png)
+
+
+Excluíndo:
+
+![NPM](https://github.com/FilippiCelegati/Test_info/blob/master/readme_crud/excluidos.png)
